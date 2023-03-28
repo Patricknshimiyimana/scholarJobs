@@ -1,3 +1,6 @@
+# scholarjobs
+An app for listing gigs/jobs could help solve the problem of unemployment among graduate students by connecting them with potential employers and providing them with access to job opportunities that align with their skills and experience.
+
 ## Usage
 
 ### Database Setup
@@ -28,7 +31,3 @@ Upload the files to your document root, Valet folder or run
 ```
 php artisan serve
 ```
-
-## License
-
-The LaraGigs app is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
